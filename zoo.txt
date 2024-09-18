@@ -1,0 +1,4 @@
+This article provides a brief tour
+through the “visualization zoo,” show-
+casing techniques for visualizing and
+interacting with diverse data sets
